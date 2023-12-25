@@ -14,7 +14,8 @@ I'm a Senior Data Scientist passionate about leveraging advanced analytics and m
 - [And more! Check out my pinned repositories for highlights.]
 
 **Medium Articles:**
-__Making a habbit to start writing on medium. Expect an article real soon!__ :thumbsup:  
+
+_Making a habbit to start writing on medium. Expect an article real soon!_ :thumbsup:  
 <!--
 - [Article 1] : [Description and Link]
 - [Article 2] : [Description and Link]
