@@ -8,17 +8,18 @@ I'm a Senior Data Scientist passionate about leveraging advanced analytics and m
 
 **Projects:**
 
-- [Combined Cycle Power Plant] : [(https://github.com/sunkumx/Combined-Cycle-Power-Plant)]
+- Combined Cycle Power Plant : [Link](https://github.com/sunkumx/Combined-Cycle-Power-Plant)
 - [Project 2] : [Description and Link]
 - [Project 3] : [Description and Link]
 - [And more! Check out my pinned repositories for highlights.]
 
 **Medium Articles:**
-
+__Making a habbit to start writing on medium. Expect an article real soon!__ :thumbsup:  
+<!--
 - [Article 1] : [Description and Link]
 - [Article 2] : [Description and Link]
 - [Article 3] : [Description and Link]
-
+-->
 **Want to grow together?**
 
 👯 Start a conversation! I'm always up for discussing data science.
