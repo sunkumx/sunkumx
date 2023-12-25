@@ -32,7 +32,7 @@ I'm a Senior Data Scientist passionate about leveraging advanced analytics and m
 
 **Publications:**
 
-1. __Work in progress.._
+1. _Work in progress.._
 
 **Medium Articles:**
 
