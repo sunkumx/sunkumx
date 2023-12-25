@@ -52,7 +52,7 @@ Let's connect and create something amazing! ✨
 
 📫 **You can find me on:**
 
-- LinkedIn: https://www.linkedin.com/in/sunkumx/
+- :link:: https://www.linkedin.com/in/sunkumx/
 - :email:: ping.sunilk@gmail.com
 - :newspaper:: https://medium.com/@sunkumx
 
