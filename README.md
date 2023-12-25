@@ -32,8 +32,8 @@ Let's connect and create something amazing! ✨
 📫 **You can find me on:**
 
 - LinkedIn: https://www.linkedin.com/in/sunkumx/
-- :email: Email: ping.sunilk@gmail.com
-- Medium: [(https://medium.com/@sunkumx)]
+- :email:: ping.sunilk@gmail.com
+- :newspaper:: https://medium.com/@sunkumx
 
 
 **I'm always learning and evolving, so stay tuned for new growth!** :rocket::rocket::rocket:
