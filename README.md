@@ -30,6 +30,10 @@ I'm a Senior Data Scientist passionate about leveraging advanced analytics and m
 - [Project 3] : [Description and Link]
 - [And more! Check out my pinned repositories for highlights.]
 
+**Publications:**
+
+1. __Work in progress.._
+
 **Medium Articles:**
 
 _Developing a habit of starting to write on Medium. Expect an article real soon!_ :thumbsup:  
