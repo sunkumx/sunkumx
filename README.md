@@ -59,3 +59,13 @@ Let's connect and create something amazing! ✨
 
 
 **I'm always learning and evolving, so stay tuned for new growth!** :rocket::rocket::rocket:
+
+<!--
+| 	Sl No	 | 	Project Name	 | 	Type	 | Link |
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | :-----:	 |
+| 	1	| 	Combined Cycle Power Plant	| 	ML	 | | 	[Link] (https://github.com/sunkumx/Combined-Cycle-Power-Plant)	 |
+| 	2	| 	Value2	| 	Value3	 | | 	Value3	 |
+| 	3	| 	Value2	| 	Value3	 | | 	Value3	 |
+| 	4	| 	Value2	| 	Value3	 | | 	Value3	 |
+| 	5	| 	Value2	| 	Value3	 | | 	Value3	 |
+-->
