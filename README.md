@@ -2,7 +2,7 @@
 
 Welcome to my digital garden!
 
-I'm a Senior Data Scientist passionate about leveraging advanced analytics and modeling techniques to drive impactful business outcomes. I spend my days exploring the realms of machine learning, statistical analysis, and data visualization. This repository is a space where I nurture my ideas, share knowledge, and collaborate with others. Feel free to wander through my projects, explore my thoughts, and engage in conversation!
+I'm a Data Scientist passionate about leveraging advanced analytics and modeling techniques to drive impactful business outcomes. I spend my days exploring the realms of machine learning, statistical analysis, and data visualization. This repository is a space where I nurture my ideas, share knowledge, and collaborate with others. Feel free to wander through my projects, explore my thoughts, and engage in conversation!
 
 **🚀 Technical Skills**
 
