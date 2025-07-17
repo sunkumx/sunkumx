@@ -1,71 +1,80 @@
- **:wave: Hi there! I'm Sunil Kumar**
+# 👋 Hi, I'm Sunil Kumar
 
-Welcome to my digital garden!
+Welcome to my GitHub. This space reflects my work and interests in **Credit Risk Modeling**, **Fraud Analytics**, and **Data Science for Risk Management**.
 
-I'm a Data Scientist passionate about leveraging advanced analytics and modeling techniques to drive impactful business outcomes. I spend my days exploring the realms of machine learning, statistical analysis, and data visualization. This repository is a space where I nurture my ideas, share knowledge, and collaborate with others. Feel free to wander through my projects, explore my thoughts, and engage in conversation!
+I hold a Master’s in Business Analytics and specialize in designing data-driven solutions that support credit decisioning, fraud prevention, and regulatory compliance. My focus is on building interpretable, scalable, and production-ready models that align with real-world risk strategies and policy frameworks.
 
-**🚀 Technical Skills**
+---
 
-- Programming Languages: Python, SQL, R
-- Statistics: Hypothesis Testing, ANOVA, P-Test, T-Test, Paired T-Test, Z-Test, Chi-Square Test
-- Programming Environments: Jupyter Notebook, PyCharm, Google Colab, VSCode, RStudio
-- Machine Learning and Deep Learning Frameworks: Scikit-learn, TensorFlow, Keras, PyTorch
-- Data Manipulation and Analysis: Pandas, NumPy, SciPy
-- Natural Language Processing (NLP): NLTK, spaCy, Gensim, TextBlob, Transformers (Hugging Face)
-- Feature Engineering and Selection: Featuretools, Scikit-learn
-- Model Evaluation and Validation: Cross-validation, Hyperparameter Tuning, Evaluation metrics (Accuracy, Precision, Recall, F1-Score)
-- Big Data Technologies: Hadoop, Spark
-- Version Control and Collaboration: Git, GitHub, GitLab
-- Data Warehousing: Snowflake, Amazon Redshift, Google BigQuery
-- Deployment and Productionization: Docker, Kubernetes
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Orange
-- Project Management Tools: GitHub, Jira
+## 🎯 Areas of Focus
 
-**Here's a glimpse of what you'll find:**
+- **Credit Risk Modeling**: PD (Probability of Default), LGD (Loss Given Default), EAD (Exposure at Default)  
+- **Scorecard Development**: WOE/IV transformation, binning, logistic regression, reject inference  
+- **Model Monitoring & Validation**: Stability Index (PSI), Discrimination (Gini, KS), Calibration, Backtesting  
+- **Risk-Based Segmentation**: Behavioral modeling, risk banding, exposure analysis  
+- **Fraud Analytics**: First-party fraud, synthetic identity detection, rule-based and ML-driven fraud systems  
+- **Regulatory Alignment**: Basel II/III compliance, IFRS 9 modeling components  
+- **Responsible AI & Model Governance**: Fairness, explainability (LIME, SHAP), regulatory audit readiness  
+- **NLP in Risk**: Text classification and named entity recognition for legal, policy, and financial documents
 
-**Projects:**
+---
 
-- Combined Cycle Power Plant : [Link](https://github.com/sunkumx/Combined-Cycle-Power-Plant)
-<!--
-- [Project 2] : [Description and Link]
-- [Project 3] : [Description and Link]
-- [And more! Check out my pinned repositories for highlights.]
--->
-**Publications:**
+## 🧰 Technical Skills
 
-1. _Work in progress.._
+**Languages and Environments**  
+`Python`, `SQL` — Jupyter Notebook, Google Colab, VSCode
 
-**Medium Articles:**
+**Core Concepts**  
+- **Statistical Methods**: Hypothesis Testing, ANOVA, Z-Test, T-Test, Chi-Square  
+- **Risk Modeling**: Logistic Regression, WOE/IV, Scorecards, PD/LGD/EAD modeling, Model Monitoring  
+- **Machine Learning**: Scikit-learn, XGBoost, Random Forest, Decision Trees  
+- **Fraud Analytics**: Anomaly Detection, Behavior Modeling, Rule-Based Systems  
+- **NLP**: NLTK, spaCy, Gensim, Hugging Face Transformers  
+- **Data Engineering**: Pandas, NumPy, Featuretools, Data Cleaning  
+- **Visualization**: Matplotlib, Seaborn, Power BI, Tableau  
+- **Deployment**: Docker, Kubernetes, MLflow  
+- **Cloud and Warehousing**: AWS Redshift, Google BigQuery, Snowflake  
+- **Version Control**: Git, GitHub, GitLab  
+- **Project Tools**: GitHub Projects, Jira
 
-_Developing a habit of starting to write on Medium. Expect an article real soon!_ :thumbsup:  
-<!--
-- [Article 1] : [Description and Link]
-- [Article 2] : [Description and Link]
-- [Article 3] : [Description and Link]
--->
-**Want to grow together?**
+---
 
-👯 Start a conversation! I'm always up for discussing data science.
-Contribute to my projects! Help me make them even better.
-Star my repositories! It's like planting a seed of encouragement.
-Share my work! Help my ideas spread and flourish.
-Let's connect and create something amazing! ✨
+## 📂 Selected Projects
 
-📫 **You can find me on:**
-
-- :link:: https://www.linkedin.com/in/sunkumx/
-- :email:: ping.sunilk@gmail.com
-- :newspaper:: https://medium.com/@sunkumx
+| Project | Domain | Description |
+|--------|--------|-------------|
+| [Credit Scoring Model](https://github.com/sunkumx/) | Credit Risk | End-to-end logistic regression model for risk-based lending with WOE/IV and scorecard implementation |
+| [Fraud Detection Engine](https://github.com/sunkumx/) | Fraud Analytics | Feature engineering and anomaly detection pipeline for first-party fraud identification |
+| [Nifty Sector Analysis](https://github.com/sunkumx/) | Market Risk | Return-based clustering framework for sectoral analysis and stock screening |
+| [Loan Default Predictor](https://github.com/sunkumx/) | Credit Risk | Classification model using borrower attributes and financial behavior |
+| [Coming Soon!](https://github.com/sunkumx/)| Test Case | Test.|
 
 
-**I'm always learning and evolving, so stay tuned for new growth!** :rocket::rocket::rocket:
+---
 
-<!--
-| 	Sl No	 | 	Project Name	 | 	Type	 | Link |
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | :-----:	 |
-| 	1	| 	Combined Cycle Power Plant	| 	ML	 | | 	[Link] (https://github.com/sunkumx/Combined-Cycle-Power-Plant)	 |
-| 	2	| 	Value2	| 	Value3	 | | 	Value3	 |
-| 	3	| 	Value2	| 	Value3	 | | 	Value3	 |
-| 	4	| 	Value2	| 	Value3	 | | 	Value3	 |
-| 	5	| 	Value2	| 	Value3	 | | 	Value3	 |
--->
+## ✍️ Medium Articles
+
+Currently working on articles related to model interpretability, credit scoring frameworks, and risk strategy.  
+📖 [Follow me on Medium](https://medium.com/@sunkumx)
+
+---
+
+## 🤝 Let’s Connect
+
+- Interested in data-driven solutions for credit risk or fraud? Let’s discuss  
+- Found something valuable? Feel free to star or fork the project  
+- Have feedback or ideas? I welcome collaboration and open-source contributions  
+
+---
+
+## 📫 Reach Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunkumx)  
+- 📧 ping.sunilk@gmail.com
+- 🌐 Website: [sunkumx.github.io](https://sunkumx.github.io/)
+- 📰 [Medium](https://medium.com/@sunkumx)
+
+---
+
+**“In data we trust, in risk we measure.”**  
+*Thanks for visiting! 🚀*
