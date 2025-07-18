@@ -22,7 +22,7 @@ I hold a Master’s in Business Analytics and specialize in designing data-drive
 ## 🧰 Technical Skills
 
 **Languages and Environments**  
-`Python`, `SQL` — Jupyter Notebook, Google Colab, VSCode
+`Python`, `SQL`, `Pyspark` — Jupyter Notebook, Google Colab, VSCode
 
 **Core Concepts**  
 - **Statistical Methods**: Hypothesis Testing, ANOVA, Z-Test, T-Test, Chi-Square  
