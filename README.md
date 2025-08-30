@@ -50,6 +50,11 @@ I hold a Master’s in Business Analytics and specialize in designing **data-dri
 
 
 ---
+## LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sunkumx?theme=light)
+
+---
 
 ## ✍️ Medium Articles
 
